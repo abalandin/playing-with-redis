@@ -1,0 +1,15 @@
+{
+  "name": "playing-with-redis",
+  "version": "0.0.1",
+  "author": "Aleksei Balandin",
+  "repository": "abalandin/playing-with-redis",
+  "engines": {
+    "node": "^4.0.0"
+  },
+  "main": "./index.js",
+  "dependencies": {
+    "logger": "^0.0.1",
+    "minimist": "^1.2.0",
+    "redis": "^1.0.0"
+  }
+}
